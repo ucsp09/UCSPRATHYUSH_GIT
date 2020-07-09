@@ -5,3 +5,4 @@
         git remote
         git init
         git branch
+        git merge
