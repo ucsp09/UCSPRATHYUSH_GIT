@@ -6,3 +6,6 @@
         git init
         git branch
         git merge
+        git pull
+        git commit
+        git status
