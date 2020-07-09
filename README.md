@@ -2,4 +2,6 @@
         git clone
         git add
         git push
+        git remote
+        git init
         
